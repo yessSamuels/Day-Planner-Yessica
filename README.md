@@ -21,12 +21,11 @@
 * Repository contains quality README file with description, screenshot, and link to deployed application
 
 
-## Review
 
-You are required to submit BOTH of the following for review:
+## Links
+* file:///Users/yessicaperez/Homework/Day-Planner-Yessica/index.html?
+* https://github.com/yessSamuels/Day-Planner-Yessica
 
-* The URL of the functional, deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+![ScreenShot](Assets/screenshot1.png)
 - - -
