@@ -1,0 +1,59 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 3;
+  }
+  
+  
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  
+  .saveBtn {
+    border-left: 1px solid rgb(161, 243, 172);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #c3eddf;
+    color: white;
+  }
+  
+  .hover {
+    background-color:rgb(161, 243, 172);
+  }
+  
+  
+  .save-icon {
+    height: 60px;
+    width: 60px;
+    position: center;
+    top: 30%;
+    left: 40%;
+  }
+  
+  
+  textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;;
+  }
